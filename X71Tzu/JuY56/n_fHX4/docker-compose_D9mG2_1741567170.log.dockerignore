@@ -11,6 +11,5 @@ tmp
 docker
 frontend
 .editorconfig
-.eslintrc.cjs
 .gitignore
 README.md
