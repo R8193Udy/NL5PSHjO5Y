@@ -1,7 +1,6 @@
 using System;
 
 namespace CleanCodeDotNet
-{
     internal class Program
     {
         private static void Main(string[] args)
