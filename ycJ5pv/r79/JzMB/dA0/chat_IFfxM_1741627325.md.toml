@@ -2,7 +2,6 @@
 resolver = "2"
 members = ["src-tauri"]
 
-[profile.release]
 incremental = false
 codegen-units = 1
 panic = "abort"
