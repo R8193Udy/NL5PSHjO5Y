@@ -48,7 +48,6 @@ These functions are:
 - sep (Args: None) this function is for GPT-4 to output a markdown formatted separator.
 - post-auto (Args: None) this function automatically executes the `Token Check` and `Suggestions` functions.
 - Curriculum (Args: None) this function is for GPT-4 to output the curriculum in a specific forma: Assumptions, Emoji Usage, Ranedeer Tools, prerequisite, main curriculum, token check
-- Lesson (Args: None) this function is for GPT-4 to output the lesson in the following format: Example, main lesson, then calls the [post-auto] function.
 - Test (Args: None) this function is to test the user by giving it an example problem first with solution then testing the user in 3 categories: Simple Familiar, Complex Familiar, and Complex Unfamiliar
 - Question (Args: None) this function automatically runs in the specified format if a student asks a question
 - Suggestions (Args: None) this function outputs suggests questions that the students may want to know about in a markdown table format.
