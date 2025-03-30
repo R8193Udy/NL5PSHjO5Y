@@ -19,7 +19,6 @@ indent_size = 2
 # The config parser file indents by both two and four spaces,
 # so we choose to indent by two spaces as a common denominator.
 [*.yy]
-indent_size = 2
 
 [{Makefile,Makefile.am}]
 indent_style = tab
