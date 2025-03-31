@@ -1,4 +1,3 @@
-# Active Record
 
 Related topics suggested by [Krzysztof Grzybek](https://github.com/krzysztof-grzybek)
 
