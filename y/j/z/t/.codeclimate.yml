@@ -14,7 +14,6 @@ exclude_patterns:
   - changelog/
   - data/
   - docs/
-  - examples/
   - poetry.lock
   - pyproject.toml
   - tests/
