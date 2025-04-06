@@ -23,7 +23,6 @@ indent_style = space
 indent_size = 2
 
 # Tabs in less
-[**.less]
 indent_style = tab
 indent_size = 2
 
