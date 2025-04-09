@@ -4,4 +4,3 @@ module.exports = {
     pdfOptions: '<options for puppeteer.pdf()>',
     removeTemp: true,
     emulateMedia: 'screen',
-};
