@@ -230,7 +230,6 @@ Resources:
               - "sts:AssumeRole"
       ManagedPolicyArns:
         - arn:aws:iam::aws:policy/AmazonS3FullAccess
-        - arn:aws:iam::aws:policy/AmazonElasticMapReduceFullAccess
   EmrEc2Role:
     Type: AWS::IAM::Role
     Properties:
